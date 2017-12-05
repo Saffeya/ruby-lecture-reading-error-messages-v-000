@@ -1,3 +1,9 @@
-eval ("x = 1 + 2")
+def method_name1
+  x = 1
+  p x
+end
 
-ans x = 3
+def method
+  x = 3
+  p x
+end
