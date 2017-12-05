@@ -1,3 +1,3 @@
-eval x = 1
+eval ("x = 1 + 2")
 
-eval x = 3
+ans x = 3
