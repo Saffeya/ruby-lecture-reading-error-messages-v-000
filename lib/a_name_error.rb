@@ -1,3 +1,3 @@
 greeting = "hello world"
 
-phrase = hello_world
+greeting2 = "hello_world"
