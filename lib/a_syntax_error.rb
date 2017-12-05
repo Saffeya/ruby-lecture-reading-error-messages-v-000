@@ -1,3 +1,3 @@
-x = 1
+eval x = 1
 
-x = 
+eval x = 3
